@@ -1,6 +1,6 @@
 spring:
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mydql://47.116.64.168:3306/test
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.10.64.108:3306/sky-master?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
     username: root
-    password: Xuanjun340822
+    password: puranga151
